@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://green-pebble-0094b5700.2.azurestaticapps.net
-
+**Project Demo Video Link**  -
 
 ## Features and Functionalities 😃
 
